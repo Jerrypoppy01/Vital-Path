@@ -1,0 +1,6 @@
+{
+  "name": "VitalFlow AI",
+  "description": "A premium, production-ready mobile health tracking application styled in warm organic Natural Tones, featuring advanced trackers and an integrated Gemini AI Health Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
